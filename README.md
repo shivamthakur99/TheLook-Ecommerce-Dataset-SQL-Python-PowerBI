@@ -733,8 +733,10 @@ thelook-ecommerce-ba-report/
 ├── 📊 BA_REPORT.pdf (Full analysis document)
 │
 ├── 📁 dashboards/
-│   ├── Revenue_Sales_Performance.pbix
-│   └── Customer_Behavior_Engagement.pbix
+│   ├── Revenue_Customer_Engagement.pbix
+|
+├── 📁 Visuals/
+│   ├── Power BI Dashboard.pdf
 │
 ├── 📁 data/
 │   ├── orders.csv
@@ -745,19 +747,15 @@ thelook-ecommerce-ba-report/
 │
 ├── 📁 analysis/
 │   ├── gap_analysis.md
-│   ├── financial_impact.xlsx
-│   ├── cohort_analysis.xlsx
-│   └── channel_roi_model.xlsx
+│   ├── Dashboard_Element_Analysis.md
 │
 ├── 📁 requirements/
 │   ├── functional_requirements.md
 │   ├── non_functional_requirements.md
-│   └── user_stories.md
 │
-├── 📁 kpi_tracking/
-│   ├── kpi_register.xlsx
-│   ├── dashboard_kpi.pbix
-│   └── kpi_targets_2025.xlsx
+├── 📁 sql_query
+│   ├── Revenue & Performance.sql
+│   ├── customer_analysis.sql
 │
 └── 📁 recommendations/
     ├── R1_Revenue_Collapse_Investigation.md
