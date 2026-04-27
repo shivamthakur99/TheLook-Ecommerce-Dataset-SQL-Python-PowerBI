@@ -387,7 +387,7 @@ Organic (15.4%):    Positive signal but cannot sustain growth alone
 
 ### Dashboard Element-by-Element Analysis
 
-| # | Element | BA Observation | Implication | Priority |
+| S.NO | Element | BA Observation | Implication | Priority |
 |---|---------|---|---|---|
 | **01** | Total Revenue £11.14M | Peaked 2022, dropped 71% by 2024. Not recovering. | Structural decline needs urgent strategy | 🔴 CRITICAL |
 | **02** | Total Orders 94K | 44K (47%) in 2022 alone. One exceptional year. | Repeatability not demonstrated | 🟠 HIGH |
